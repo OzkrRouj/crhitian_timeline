@@ -1,0 +1,371 @@
+[
+    {
+        "id": 1,
+        "content": "Vespasiano",
+        "start": "0069",
+        "end": "0079",
+        "group": 1,
+        "description": "César Vespasiano Augusto funda la dinastía flaviana.",
+        "md_file": ""
+    },
+    {
+        "id": 2,
+        "content": "Tito",
+        "start": "0079",
+        "end": "0081",
+        "group": 1,
+        "description": "Titus Flavius Vespasianus gobierna como emperador romano.",
+        "md_file": ""
+    },
+    {
+        "id": 3,
+        "content": "Domiciano",
+        "start": "0081",
+        "end": "0096",
+        "group": 1,
+        "description": "Gobierna hasta su asesinato, finalizando la dinastía flaviana.",
+        "md_file": ""
+    },
+    {
+        "id": 4,
+        "content": "Nerva",
+        "start": "0096",
+        "end": "0098",
+        "group": 1,
+        "description": "Marco Coceyo Nerva es emperador, figura de transición que adopta a Trajano como sucesor.",
+        "md_file": ""
+    },
+    {
+        "id": 5,
+        "content": "Trajano",
+        "start": "0098",
+        "end": "0117",
+        "group": 1,
+        "description": "Es emperador; el imperio romano alcanza su máxima extensión territorial.",
+        "md_file": ""
+    },
+    {
+        "id": 6,
+        "content": "Adriano",
+        "start": "0117",
+        "end": "0138",
+        "group": 1,
+        "description": "Es emperador y adopta una política de estabilización.",
+        "md_file": ""
+    },
+    {
+        "id": 7,
+        "content": "Antonino Pío",
+        "start": "0138",
+        "end": "0161",
+        "group": 1,
+        "description": "Es emperador; su reinado es pacífico.",
+        "md_file": ""
+    },
+    {
+        "id": 8,
+        "content": "Marco Aurelio",
+        "start": "0161",
+        "end": "0180",
+        "group": 1,
+        "description": "Último de los 'cinco buenos emperadores', gobierna durante la plaga y problemas en las fronteras.",
+        "md_file": ""
+    },
+    {
+        "id": 9,
+        "content": "Cómodo",
+        "start": "0180",
+        "end": "0192",
+        "group": 1,
+        "description": "Se convierte en emperador, realiza ejecuciones y despilfarros.",
+        "md_file": ""
+    },
+    {
+        "id": 10,
+        "content": "Septimio Severo",
+        "start": "0197",
+        "end": "0211",
+        "group": 1,
+        "description": "Gana el poder imperial y establece la dinastía Severa.",
+        "md_file": ""
+    },
+    {
+        "id": 11,
+        "content": "Decio",
+        "start": "0249",
+        "end": "0251",
+        "group": 1,
+        "description": "Cayo o Gayo Mesio Quinto Trajano Decio persigue a los cristianos.",
+        "md_file": ""
+    },
+    {
+        "id": 12,
+        "content": "Diocleciano",
+        "start": "0284",
+        "end": "0305",
+        "group": 1,
+        "description": "Gobierna; los cristianos sufren persecución.",
+        "md_file": ""
+    },
+    {
+        "id": 13,
+        "content": "Constantino",
+        "start": "0312",
+        "end": "0337",
+        "group": 1,
+        "description": "Gobierna y finaliza la persecución de los cristianos.",
+        "md_file": ""
+    },
+    {
+        "id": 14,
+        "content": "Expulsión de judíos",
+        "start": "0049",
+        "end": "",
+        "group": 2,
+        "description": "El emperador Claudio expulsa a los judíos de Roma debido a disturbios relacionados con 'Crestus'.",
+        "md_file": ""
+    },
+    {
+        "id": 15,
+        "content": "Segunda revuelta judía",
+        "start": "0132",
+        "end": "0135",
+        "group": 2,
+        "description": "Liderada por Simón Bar Kokhba.",
+        "md_file": ""
+    },
+    {
+        "id": 16,
+        "content": "Rebelión aplastada",
+        "start": "0135",
+        "end": "",
+        "group": 2,
+        "description": "La rebelión judía es aplastada, devastando Judea y terminando con el nacionalismo judío.",
+        "md_file": ""
+    },
+    {
+        "id": 17,
+        "content": "Expansión del cristianismo",
+        "start": "0150",
+        "end": "",
+        "group": 3,
+        "description": "El cristianismo se extiende a las clases altas y diversas regiones.",
+        "md_file": ""
+    },
+    {
+        "id": 18,
+        "content": "Comunidades en Galia",
+        "start": "0177",
+        "end": "",
+        "group": 3,
+        "description": "Hay comunidades cristianas en Lyon y Vienne, Galia, lideradas por Ireneo.",
+        "md_file": ""
+    },
+    {
+        "id": 19,
+        "content": "Conversiones en Arbela",
+        "start": "0100",
+        "end": "",
+        "group": 3,
+        "description": "Conversiones al otro lado del Tigris, en Arbela, antigua ciudad asiria.",
+        "md_file": ""
+    },
+    {
+        "id": 20,
+        "content": "Comunidad en Damasco",
+        "start": "0150",
+        "end": "",
+        "group": 3,
+        "description": "Una comunidad cristiana se establece al norte de Damasco.",
+        "md_file": ""
+    },
+    {
+        "id": 21,
+        "content": "Carta de Plinio",
+        "start": "0150",
+        "end": "",
+        "group": 3,
+        "description": "Se evidencia la expansión del cristianismo, como la carta de Plinio a Trajano.",
+        "md_file": ""
+    },
+    {
+        "id": 22,
+        "content": "Regla de fe",
+        "start": "0200",
+        "end": "",
+        "group": 3,
+        "description": "La 'regla de fe' se utiliza como evidencia de la autenticidad de la iglesia católica.",
+        "md_file": ""
+    },
+    {
+        "id": 23,
+        "content": "Escuela de Alejandría",
+        "start": "0150",
+        "end": "",
+        "group": 3,
+        "description": "Panteno de Alejandría funda una escuela para la enseñanza cristiana.",
+        "md_file": ""
+    },
+    {
+        "id": 24,
+        "content": "Adoración cristiana",
+        "start": "0150",
+        "end": "",
+        "group": 3,
+        "description": "Se establece un modo definitivo en la adoración cristiana, incluyendo lectura de las Escrituras, sermones y oraciones.",
+        "md_file": ""
+    },
+    {
+        "id": 25,
+        "content": "Policarpo en Roma",
+        "start": "0154",
+        "end": "",
+        "group": 3,
+        "description": "Policarpo viaja a Roma para tratar de resolver el conflicto de la Pascua de Resurrección.",
+        "md_file": ""
+    },
+    {
+        "id": 26,
+        "content": "Cartago como centro",
+        "start": "0200",
+        "end": "",
+        "group": 3,
+        "description": "Cartago se convierte en el centro más influyente en la provincia romana de África.",
+        "md_file": ""
+    },
+    {
+        "id": 27,
+        "content": "Persecución en Alejandría",
+        "start": "0202",
+        "end": "0203",
+        "group": 3,
+        "description": "Clemente y sus alumnos huyen, Leónidas es martirizado.",
+        "md_file": ""
+    },
+    {
+        "id": 28,
+        "content": "Credos estables",
+        "start": "0250",
+        "end": "",
+        "group": 3,
+        "description": "A mediados de este siglo se desarrollan credos estables en el contexto del bautismo.",
+        "md_file": ""
+    },
+    {
+        "id": 29,
+        "content": "Ley dominical",
+        "start": "0321",
+        "end": "",
+        "group": 3,
+        "description": "Constantino establece una legislación para exigir que no se trabaje en domingo, excepto para labores agrícolas.",
+        "md_file": ""
+    },
+    {
+        "id": 30,
+        "content": "Concilio de Nicea",
+        "start": "0325",
+        "end": "",
+        "group": 3,
+        "description": "Establece que la mayoría de las iglesias en Asia Menor abandonan la costumbre de celebrar la Pascua de Resurrección el catorce de Nisán.",
+        "md_file": ""
+    },
+    {
+        "id": 31,
+        "content": "Carta de Atanasio",
+        "start": "0367",
+        "end": "",
+        "group": 5,
+        "description": "En oriente, una carta de Atanasio marca un punto definitivo en el canon bíblico.",
+        "md_file": ""
+    },
+    {
+        "id": 32,
+        "content": "Canon de Cartago",
+        "start": "0397",
+        "end": "",
+        "group": 5,
+        "description": "Una lista similar es aceptada en Cartago, en el occidente.",
+        "md_file": ""
+    },
+    {
+        "id": 33,
+        "content": "Justino Mártir",
+        "start": "0100",
+        "end": "0165",
+        "group": 4,
+        "description": "Utiliza material escrito por los apóstoles en sus relatos de la vida de Jesús.",
+        "md_file": ""
+    },
+    {
+        "id": 34,
+        "content": "Clemente de Alejandría",
+        "start": "0150",
+        "end": "0215",
+        "group": 4,
+        "description": "Intenta ofrecer una respuesta educada e inteligente al mundo pagano.",
+        "md_file": ""
+    },
+    {
+        "id": 36,
+        "content": "Orígenes",
+        "start": "0185",
+        "end": "0254",
+        "group": 4,
+        "description": "Realiza una edición elaborada del Antiguo Testamento llamada la Hexapla.",
+        "md_file": ""
+    },
+    {
+        "id": 37,
+        "content": "Cipriano",
+        "start": "0200",
+        "end": "0258",
+        "group": 4,
+        "description": "Es elegido obispo de Cartago y muere como mártir.",
+        "md_file": ""
+    },
+    {
+        "id": 38,
+        "content": "Ambrosio",
+        "start": "0340",
+        "end": "0397",
+        "group": 4,
+        "description": "Es el primero en utilizar el título Credo.",
+        "md_file": ""
+    },
+    {
+        "id": 39,
+        "content": "Eusebio",
+        "start": "0260",
+        "end": "0340",
+        "group": 4,
+        "description": "Escribe sobre los libros reconocidos y en discusión del canon bíblico.",
+        "md_file": ""
+    },
+    {
+        "id": 40,
+        "content": "Septuaginta",
+        "start": "-0250",
+        "end": "",
+        "group": 5,
+        "description": "Es traducida en Alejandría.",
+        "md_file": ""
+    },
+    {
+        "id": 41,
+        "content": "Canon Muratorio",
+        "start": "0200",
+        "end": "",
+        "group": 5,
+        "description": "Es fechado en Roma.",
+        "md_file": ""
+    },
+    {
+        "id": 42,
+        "content": "Controversia de Pascua",
+        "start": "0150",
+        "end": "",
+        "group": 6,
+        "description": "Se da la controversia de la Pascua de Resurrección entre las iglesias de Oriente y Occidente.",
+        "md_file": ""
+    }
+]
